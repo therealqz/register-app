@@ -1,7 +1,7 @@
 ###  CI/CD pipeline to deploy a Java App to EKS Kubernetes #
 ---
 
-This project uses EKS Cluster using the  Nodegroup Profile. Here are some other tools used :
+This CICD pipeline was implemented on an EKS Cluster using the  Nodegroup Profile. Here are some other tools used :
 1. Jenkins - The main CI solution
 2. SonarQube - For repo analysis
 3. ArgoCD - GitOps for the continous delivery to the K8 cluster
